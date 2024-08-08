@@ -1,5 +1,5 @@
 ## profile view 👋
-![:Yotaphone828](https://count.getloli.com/get/@:Yotaphone828?theme=gelbooru-h)
+![:Yotaphone828](https://count.getloli.com/get/@:Yotaphone828?theme=moebooru-h)
 
 <!--
 **Yotaphone828/Yotaphone828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
